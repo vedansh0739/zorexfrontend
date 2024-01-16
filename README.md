@@ -1,4 +1,4 @@
-# Mantine Vite template
+#MMantine Vite template
 
 ## Features
 
